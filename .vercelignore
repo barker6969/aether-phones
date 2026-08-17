@@ -1,0 +1,12 @@
+backend
+backend/**
+aether-cli
+aether-desktop
+mobile
+test_reports
+tests
+memory
+.git
+**/.venv
+**/node_modules
+**/target
